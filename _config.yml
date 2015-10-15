@@ -1,0 +1,11 @@
+# Site settings
+title: redbtn|blog
+email: bagustnugroho@gmail.com
+description: notes, ideas, thinkings, breakthroughs
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: bagustnugroho
+github_username:  redbtn
+
+# Build settings
+markdown: kramdown
